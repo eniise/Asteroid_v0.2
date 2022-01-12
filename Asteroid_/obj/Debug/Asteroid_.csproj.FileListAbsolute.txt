@@ -1,0 +1,16 @@
+C:\Users\VAIO\source\repos\Asteroid_\bin\Debug\Asteroid_.exe.config
+C:\Users\VAIO\source\repos\Asteroid_\bin\Debug\Asteroid_.exe
+C:\Users\VAIO\source\repos\Asteroid_\bin\Debug\Asteroid_.pdb
+C:\Users\VAIO\source\repos\Asteroid_\bin\Debug\SFML.Audio.dll
+C:\Users\VAIO\source\repos\Asteroid_\bin\Debug\SFML.Graphics.dll
+C:\Users\VAIO\source\repos\Asteroid_\bin\Debug\SFML.System.dll
+C:\Users\VAIO\source\repos\Asteroid_\bin\Debug\SFML.Window.dll
+C:\Users\VAIO\source\repos\Asteroid_\bin\Debug\SFML.Audio.xml
+C:\Users\VAIO\source\repos\Asteroid_\bin\Debug\SFML.Graphics.xml
+C:\Users\VAIO\source\repos\Asteroid_\bin\Debug\SFML.System.xml
+C:\Users\VAIO\source\repos\Asteroid_\bin\Debug\SFML.Window.xml
+C:\Users\VAIO\source\repos\Asteroid_\obj\Debug\Asteroid_.csprojAssemblyReference.cache
+C:\Users\VAIO\source\repos\Asteroid_\obj\Debug\Asteroid_.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\source\repos\Asteroid_\obj\Debug\Asteroid_.csproj.CopyComplete
+C:\Users\VAIO\source\repos\Asteroid_\obj\Debug\Asteroid_.exe
+C:\Users\VAIO\source\repos\Asteroid_\obj\Debug\Asteroid_.pdb
